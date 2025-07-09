@@ -24,8 +24,6 @@ createRoot(document.getElementById('root')).render(
       <Auth0Provider
         domain={domainID}
         clientId={clientid}
-        // domain="mrjerif-passwordmanager.au.auth0.com"
-        // clientId="odnAXY6Mr8W0fMO0a5NEl8GtNk2Xl79L"
         authorizationParams={{
           redirect_uri: window.location.origin,
           audience: "lockcraftpasswordmanager/identifier",

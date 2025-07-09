@@ -191,8 +191,8 @@ const Generate = () => {
                 <div>
                     {/* Welcome message */}
                     <div className="flex justify-center text-center text-xl sm:text-3xl font-semibold mt-16 sm:mt-28 hover:scale-105 transition-transform">
-                        <h2> Welcome to <b>Lock</b></h2>
-                        <span className="text-green-600 font-bold hover:scale-110">Craft</span>
+                        <h2> Welcome to <b>Pass</b></h2>
+                        <span className="text-green-600 font-bold hover:scale-110">Safe</span>
                     </div>
                     {/* Login message */}
                     <div className="flex justify-center text-center text-base sm:text-lg mt-4 hover:scale-105 transition-transform  my-3">

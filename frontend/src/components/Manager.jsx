@@ -248,7 +248,7 @@ export function Manager() {
 
             <div className="container mx-auto max-w-4xl text-center py-5 overflow-y-auto scrollbar-hide">
                 <h1 className="text-4xl font-bold hover:scale-110">
-                    Lock<span className="text-green-600">Craft</span>
+                    Pass<span className="text-green-600">Safe</span>
                 </h1>
                 <p className="text-green-900 text-lg text-center hover:scale-105 md:pb-3">
                     Crafting Your Security
