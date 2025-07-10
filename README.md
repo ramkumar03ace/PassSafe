@@ -1,27 +1,22 @@
-# LockCraft
+# PassSafe
 ## A Complete Password Manager
 The Password Manager is a secure web application designed to help users manage their passwords efficiently. It allows users to save, retrieve, update, and delete passwords for various accounts securely. The application employs encryption to protect data and uses Auth0 for authentication, ensuring that only authorized users can access their information.
 
 # Features:
 ## Password Manager
 - User Authentication: Secure user login and authentication through Auth0.
-  <img src='https://github.com/MrJerif/LockCraft/blob/main/public/img1.png?raw=true' alt='login' width="500px" heigh="500px">
   
 - Password Storage: Save passwords and other information securly.
 - Encryption: All passwords and sensitive data are encrypted before being stored in the database, enhancing security.
 - User-specific Access: Each user's passwords are isolated, ensuring privacy and data protection.
 - Editable Records: Update or delete existing passwords with ease.
-  <img src='https://github.com/MrJerif/LockCraft/blob/main/public/img2.png?raw=true' alt='password-table' width="700px" heigh="700px">
   
 - Search Functionality: Users can search for specific passwords by any value except password to quickly locate entries.
-  <img src='https://github.com/MrJerif/LockCraft/blob/main/public/img4.png?raw=true' alt='search' width="700px" heigh="700px">
   
 - Password Strength Checker: Integrated password strength checker that evaluates the strength of passwords as they are being created or updated.
 - Visual Feedback(colored borders): Colored Border for each password entry indicates its strength, helping users to create secure passwords.
-  <img src='https://github.com/MrJerif/LockCraft/blob/main/public/img3.png?raw=true' alt='Strength-checker' width="700px" heigh="700px">
   
 - Responsive Design: The user interface is designed to work seamlessly on various devices.
-  <img src='https://github.com/MrJerif/LockCraft/blob/main/public/img6.jpg?raw=true' alt='mobile-view' width="200px" heigh="200px">
   
 - Password Generator: Generate strong and unique passwords based on your desired length and selected options.
 
@@ -95,7 +90,7 @@ The Password Manager is a secure web application designed to help users manage t
 # Getting Started/ Installation:
 ### Step 1: Clone the repository:
 * To run the project locally, follow these steps:
-  - git clone https://github.com/MrJerif/LockCraft.git
+  - git clone https://github.com/MrJerif/PassSafe.git
 
 ### Step 2: Set up the Backend:
 * Navigate to the backend folder.
