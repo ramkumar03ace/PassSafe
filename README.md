@@ -90,7 +90,7 @@ The Password Manager is a secure web application designed to help users manage t
 # Getting Started/ Installation:
 ### Step 1: Clone the repository:
 * To run the project locally, follow these steps:
-  - git clone https://github.com/MrJerif/PassSafe.git
+  - git clone https://github.com/ramkumar03ace/PassSafe.git
 
 ### Step 2: Set up the Backend:
 * Navigate to the backend folder.
